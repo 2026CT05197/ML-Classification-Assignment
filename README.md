@@ -1,16 +1,10 @@
 Diabetes Readmission Classification
 Machine Learning Assignment
-Dataset
-Diabetes 130-US Hospitals for Years 1999–2008
+Dataset: Diabetes 130-US Hospitals for Years 1999–2008
 
-Target Variable
-readmitted
+Target Variable: readmitted
 
-Problem Type
-Multi-Class Classification
-
-Current Progress
-✅ Phase 1 Completed
+Current Status: ✅ Phase 1 Completed
 
 Completed Tasks
 Dataset loading
